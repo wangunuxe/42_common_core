@@ -58,7 +58,19 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 |---------|-------------|-------|
 | [miniRT](https://github.com/Lasauce6/42-miniRT) | Ray tracer in C (group project) | 105/100 |
 | [NetPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | 100/100 |
-| [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 00–04 | <!-- score --> |
+| [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 00–04 | — |
+<details>
+<summary>CPP Modules 00–04 — Detailed Scores</summary>
+
+| Module | Topic | Score |
+|--------|-------|-------|
+| [00](https://github.com/wangunuxe/cpp_modules) | Namespaces, classes, member functions | 80/100 |
+| [01](https://github.com/wangunuxe/cpp_modules) | Memory allocation, references, pointers | 100/100 |
+| [02](https://github.com/wangunuxe/cpp_modules) | Operator overloading, Orthodox Canonical Form | 100/100 |
+| [03](https://github.com/wangunuxe/cpp_modules) | Inheritance | 100/100 |
+| [04](https://github.com/wangunuxe/cpp_modules) | Subtype polymorphism, abstract classes | 100/100 |
+
+</details>
 
 
 ---
@@ -69,6 +81,18 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 |---------|-------------|-------|
 | [Webserv](https://github.com/MylittleQueercat/Webserv) | HTTP/1.1 server in C++ (group project) | <!-- score --> 
 | [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 05–09 | <!-- score --> |
+<details>
+<summary>CPP Modules 00–04 — Detailed Scores</summary>
+
+| Module | Topic | Score |
+|--------|-------|-------|
+| [05](https://github.com/wangunuxe/cpp_modules) | Exceptions | <!-- score --> |
+| [06](https://github.com/wangunuxe/cpp_modules) | Casts | <!-- score --> |
+| [07](https://github.com/wangunuxe/cpp_modules) | Templates | <!-- score --> |
+| [08](https://github.com/wangunuxe/cpp_modules) | Templated containers, iterators, algorithms | <!-- score --> |
+| [09](https://github.com/wangunuxe/cpp_modules) | STL | <!-- score --> |
+
+</details>
 
 ---
 
@@ -77,7 +101,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 | Project | Description | Score |
 |---------|-------------|-------|
 |
-| [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 05–09 | <!-- score --> |
+
 
 ---
 
@@ -85,9 +109,9 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Exam | Score |
 |------|-------|
-| Exam Rank 02 | <!-- score --> |
-| Exam Rank 03 | <!-- score --> |
-| Exam Rank 04 | <!-- score --> |
+| Exam Rank 02 | 100/100 |
+| Exam Rank 03 | 100/100 |
+| Exam Rank 04 | 100/100 |
 
 ---
 
