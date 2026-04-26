@@ -26,9 +26,9 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [get_next_line](https://github.com/wangunuxe/get_next_line) | Read a line from a file descriptor | <!-- score --> |
-| [ft_printf](https://github.com/wangunuxe/ft_printf) | Re-implementation of printf | <!-- score --> |
-| Born2beroot | System administration & virtualization | <!-- score --> |
+| [get_next_line](https://github.com/wangunuxe/get_next_line) | Read a line from a file descriptor | 125/100 |
+| [ft_printf](https://github.com/wangunuxe/ft_printf) | Re-implementation of printf | 100/100 |
+| Born2beroot | System administration & virtualization | 100/100 |
 
 ---
 
@@ -36,9 +36,9 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [push_swap](https://github.com/wangunuxe/push_swap) | Sorting algorithm with two stacks | <!-- score --> |
-| minitalk | Inter-process communication with UNIX signals | <!-- score --> |
-| so_long / FdF | 2D game / Wireframe renderer | <!-- score --> |
+| [push_swap](https://github.com/wangunuxe/push_swap) | Sorting algorithm with two stacks | 97/100 |
+| minitalk | Inter-process communication with UNIX signals | 125/100 |
+| so_long | 2D game renderer | 125/100 |
 
 ---
 
@@ -46,7 +46,8 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [philosophers](https://github.com/wangunuxe/philosophers) | Dining philosophers — threads & mutexes | <!-- score --> | [minishell](https://github.com/wangunuxe/minishell) | A POSIX-compliant shell | <!-- score --> |
+| [philosophers](https://github.com/wangunuxe/philosophers) | Dining philosophers — threads & mutexes | 100/100 | 
+| [minishell](https://github.com/wangunuxe/minishell) | A POSIX-compliant shell | 101/100 |
 
 
 ---
@@ -55,8 +56,8 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [miniRT](https://github.com/Lasauce6/42-miniRT) | Ray tracer in C (group project) | <!-- score --> |
-| [NetPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | <!-- score --> |
+| [miniRT](https://github.com/Lasauce6/42-miniRT) | Ray tracer in C (group project) | 105/100 |
+| [NetPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | 100/100 |
 | [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 00–04 | <!-- score --> |
 
 
