@@ -18,7 +18,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [Libft](https://github.com/wangunuxe/Libft) | Re-implementation of the C standard library | 125/100 |
+| [libft](https://github.com/wangunuxe/libft.git) | Re-implementation of the C standard library | 125/100 |
 
 ---
 
@@ -57,7 +57,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 | Project | Description | Score |
 |---------|-------------|-------|
 | [miniRT](https://github.com/Lasauce6/42-miniRT) | Ray tracer in C (group project) | 105/100 |
-| [NetPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | 100/100 |
+| [netPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | 100/100 |
 | [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 00–04 | — |
 <details>
 <summary>CPP Modules 00–04 — Detailed Scores</summary>
@@ -79,7 +79,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [Webserv](https://github.com/MylittleQueercat/Webserv) | HTTP/1.1 server in C++ (group project) | <!-- score --> 
+| [webserv](https://github.com/MylittleQueercat/Webserv) | HTTP/1.1 server in C++ (group project) | <!-- score --> 
 | [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 05–09 | <!-- score --> |
 <details>
 <summary>CPP Modules 00–04 — Detailed Scores</summary>
