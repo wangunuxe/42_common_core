@@ -46,9 +46,8 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [philosophers](https://github.com/wangunuxe/philosophers) | Dining philosophers — threads & mutexes | <!-- score --> |
-| [NetPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | <!-- score --> |
-| [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 00–04 | <!-- score --> |
+| [philosophers](https://github.com/wangunuxe/philosophers) | Dining philosophers — threads & mutexes | <!-- score --> | [minishell](https://github.com/wangunuxe/minishell) | A POSIX-compliant shell | <!-- score --> |
+
 
 ---
 
@@ -57,7 +56,9 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 | Project | Description | Score |
 |---------|-------------|-------|
 | [miniRT](https://github.com/Lasauce6/42-miniRT) | Ray tracer in C (group project) | <!-- score --> |
-| [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 05–09 | <!-- score --> |
+| [NetPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | <!-- score --> |
+| [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 00–04 | <!-- score --> |
+
 
 ---
 
@@ -65,7 +66,8 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [minishell](https://github.com/wangunuxe/minishell) | A POSIX-compliant shell | <!-- score --> |
+| [Webserv](https://github.com/MylittleQueercat/Webserv) | HTTP/1.1 server in C++ (group project) | <!-- score --> 
+| [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 05–09 | <!-- score --> |
 
 ---
 
@@ -73,7 +75,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [Webserv](https://github.com/MylittleQueercat/Webserv) | HTTP/1.1 server in C++ (group project) | <!-- score --> |
+|
 | [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 05–09 | <!-- score --> |
 
 ---
