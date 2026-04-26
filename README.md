@@ -36,9 +36,9 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [push_swap](https://github.com/wangunuxe/push_swap) | Sorting algorithm with two stacks | 97/100 |
-| minitalk | Inter-process communication with UNIX signals | 125/100 |
-| so_long | 2D game renderer | 125/100 |
+| [push_swap](https://github.com/wangunuxe/push_swap.git) | Sorting algorithm with two stacks | 97/100 |
+| [minitalk](https://github.com/wangunuxe/minitalk.git) | Inter-process communication with UNIX signals | 125/100 |
+| [so_long](https://github.com/wangunuxe/so_long.git) | 2D game renderer | 125/100 |
 
 ---
 
@@ -46,7 +46,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [philosophers](https://github.com/wangunuxe/philosophers) | Dining philosophers — threads & mutexes | 100/100 | 
+| [philosophers](https://github.com/wangunuxe/philosophers.git) | Dining philosophers — threads & mutexes | 100/100 | 
 | [minishell](https://github.com/wangunuxe/minishell) | A POSIX-compliant shell | 101/100 |
 
 
@@ -57,7 +57,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 | Project | Description | Score |
 |---------|-------------|-------|
 | [miniRT](https://github.com/Lasauce6/42-miniRT) | Ray tracer in C (group project) | 105/100 |
-| [netPractice](https://github.com/wangunuxe/NetPractice) | Networking & subnetting exercises | 100/100 |
+| [netPractice](https://github.com/wangunuxe/netpractice.git) | Networking & subnetting exercises | 100/100 |
 | [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 00–04 | — |
 <details>
 <summary>CPP Modules 00–04 — Detailed Scores</summary>
