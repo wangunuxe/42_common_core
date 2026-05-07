@@ -79,7 +79,7 @@ Circle 00 → Circle 01 → Circle 02 → Circle 03 → Circle 04 → Circle 05 
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [webserv](https://github.com/MylittleQueercat/Webserv) | HTTP/1.1 server in C++ (group project) | <!-- score --> 
+| [webserv](https://github.com/MylittleQueercat/Webserv) | HTTP/1.1 server in C++ (group project) | 125/100 |
 | [cpp_modules](https://github.com/wangunuxe/cpp_modules) | C++ modules 05–09 | <!-- score --> |
 <details>
 <summary>CPP Modules 00–04 — Detailed Scores</summary>
